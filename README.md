@@ -1,3 +1,3 @@
 # haat
 
-static site. View gh-pages branch
+static site (www.juliaki.fi). View gh-pages branch
